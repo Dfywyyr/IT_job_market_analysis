@@ -1,0 +1,325 @@
+Skill,Count
+Python,31
+Java,30
+JavaScript,17
+R,113
+C#,0
+C\+\+,11
+Ruby,5
+PHP,5
+Swift,0
+Go,75
+Kotlin,0
+MATLAB,2
+Scala,22
+Perl,4
+Lua,17
+TypeScript,0
+VHDL,0
+Assembly,1
+Objective-C,1
+Solidity,0
+Rust,10
+Dart,0
+C,112
+F#,0
+Visual Basic,0
+Elixir,0
+HTML5,4
+CSS3,2
+JavaScript \(ES6\+\),0
+React.js,1
+Vue.js,0
+Angular,5
+Svelte,0
+Ember.js,0
+Bootstrap,2
+jQuery,4
+Node.js,1
+Express.js,0
+Webpack,0
+Babel,0
+SASS,0
+Tailwind CSS,0
+Pug,0
+Gulp,1
+Grunt,1
+EJS,0
+JSP,0
+Handlebars,0
+Django,1
+Flask,0
+Spring Boot,1
+Ruby on Rails,0
+ASP.NET,1
+Laravel,0
+Express.js,0
+Phoenix Framework,0
+NestJS,0
+FastAPI,0
+Symfony,0
+CodeIgniter,0
+Yii,0
+Zend Framework,0
+MySQL,8
+PostgreSQL,3
+MongoDB,1
+SQLite,0
+Oracle Database,1
+NoSQL,3
+Redis,0
+Cassandra,2
+CouchDB,0
+ElasticSearch,0
+MariaDB,0
+Apache Hive,0
+Apache HBase,0
+Google BigQuery,0
+Amazon RDS,0
+DynamoDB,0
+Firebase,0
+SQLite,0
+GraphQL,0
+Git,26
+GitHub,2
+GitLab,0
+Bitbucket,1
+Subversion,0
+Mercurial,0
+Perforce,1
+TFS,1
+AWS \(Amazon Web Services\),0
+Google Cloud Platform,0
+Microsoft Azure,1
+IBM Cloud,0
+Heroku,0
+DigitalOcean,0
+Alibaba Cloud,0
+Oracle Cloud,0
+Salesforce,3
+OpenStack,0
+Kubernetes,2
+Docker,3
+Terraform,0
+Ansible,1
+Jenkins,1
+CI/CD,4
+CloudFormation,0
+Elastic Beanstalk,0
+Cloud Run,0
+Lambda,0
+Google App Engine,0
+Azure Functions,0
+Linux,16
+Ubuntu,1
+CentOS,2
+Red Hat,1
+Debian,0
+Windows,15
+macOS,1
+Unix,7
+Android,1
+iOS,15
+Raspberry Pi,0
+Chrome OS,0
+FreeBSD,0
+Solaris,0
+Docker Containers,0
+Docker,3
+Kubernetes,2
+Jenkins,1
+Ansible,1
+Terraform,0
+Vagrant,0
+Chef,2
+Puppet,1
+CircleCI,0
+Travis CI,0
+Octopus Deploy,0
+Bamboo,0
+TeamCity,0
+GitLab CI,0
+Selenium,0
+Pandas,0
+NumPy,0
+Matplotlib,1
+Seaborn,1
+ggplot2,0
+Plotly,0
+D3.js,1
+Power BI,1
+Tableau,8
+Excel,64
+Jupyter Notebook,0
+RStudio,0
+SciPy,0
+Hadoop,11
+PySpark,0
+Machine Learning,20
+Deep Learning,4
+Scikit-learn,2
+XGBoost,0
+Keras,2
+TensorFlow,3
+PyTorch,0
+MLflow,0
+JupyterLab,0
+Apache Kafka,0
+Snowflake,0
+Google Analytics,1
+R Shiny,0
+Kaggle,0
+Data Wrangling,1
+ETL,8
+BigQuery,1
+SQL,36
+NoSQL,3
+SQL Server,9
+MongoDB,1
+GraphQL,0
+Data Visualization,4
+Data Cleaning,0
+Data Mining,4
+Data Warehousing,3
+Algorithm Design,0
+Linear Regression,0
+Logistic Regression,1
+Clustering,1
+Classification,2
+Android,1
+Kotlin,0
+Java for Android,0
+Swift,0
+Objective-C,1
+iOS,15
+React Native,0
+Flutter,0
+Xamarin,0
+PhoneGap,0
+Cordova,0
+Ionic,0
+Firebase,0
+Xcode,0
+Android Studio,0
+TensorFlow,3
+Keras,2
+PyTorch,0
+Scikit-learn,2
+OpenCV,1
+Natural Language Processing,4
+Deep Learning,4
+Reinforcement Learning,1
+Neural Networks,5
+Artificial Intelligence,11
+Computer Vision,3
+Speech Recognition,0
+Face Recognition,0
+Object Detection,0
+Generative Adversarial Networks,0
+AI Ethics,0
+Transfer Learning,0
+AutoML,0
+Firewall,5
+Encryption,0
+Penetration Testing,0
+Vulnerability Scanning,0
+IDS/IPS,0
+SSL/TLS,0
+OAuth,0
+PKI,0
+DDoS Protection,0
+Network Security,2
+Ethical Hacking,0
+OWASP,1
+Cryptography,0
+SIEM,0
+CISSP,0
+Risk Assessment,1
+Two-Factor Authentication,0
+TCP/IP,2
+DNS,6
+HTTP/HTTPS,0
+FTP,4
+VPN,5
+SSH,1
+Wireshark,0
+Ping,37
+Traceroute,0
+Load Balancing,2
+Reverse Proxy,0
+TCP,2
+UDP,0
+Sockets,0
+Networking Protocols,0
+Unit Testing,1
+Integration Testing,0
+System Testing,1
+Functional Testing,0
+Load Testing,0
+Selenium,0
+JUnit,0
+TestNG,0
+Cypress,0
+Mocha.js,0
+Chai,6
+Jest,0
+Postman,0
+Mockito,0
+Jenkins,1
+Test Automation,0
+Behavior-Driven Development \(BDD\),0
+TDD,1
+JSON,1
+XML,1
+YAML,0
+CSV,0
+Regular Expressions,0
+SOAP,2
+REST,29
+GraphQL,0
+Web Scraping,0
+Scrapy,0
+BeautifulSoup,0
+Automation,20
+Shell Scripting,1
+Bash,2
+PowerShell,4
+Vim,0
+Emacs,0
+VS Code,0
+PyCharm,0
+IntelliJ IDEA,0
+Eclipse,0
+NetBeans,0
+Xcode,0
+Figma,0
+Sketch,0
+Photoshop,3
+Illustrator,2
+Adobe XD,0
+Wireframing,0
+Prototyping,1
+Jira,1
+Trello,0
+Asana,0
+Basecamp,0
+Monday.com,0
+Slack,0
+Microsoft Teams,0
+Zoom,0
+Notion,1
+Confluence,0
+Agile,16
+Scrum,5
+Kanban,1
+DevOps,4
+CI/CD,4
+Microservices,1
+Blockchain,0
+IoT,6
+5G,3
+Edge Computing,0
+Blockchain,0
+Ethereum,0
+Solidity,0
+Smart Contracts,0
